@@ -1,4 +1,4 @@
-# first_app
+# Roll Dice
 
 Aplikacja - rzut kostką.
 
