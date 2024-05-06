@@ -1,6 +1,8 @@
 # first_app
 
-A new Flutter project.
+Aplikacja - rzut kostką.
+
+![Screen_1](https://github.com/dejwid03/roll_dice/blob/main/screenshots/Screenshot_1715026357.png)
 
 ## Getting Started
 
